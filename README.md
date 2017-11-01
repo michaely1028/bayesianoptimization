@@ -1,2 +1,2 @@
-# bayesianoptimization
+# BayesianOptimization
 undergraduate thesis
